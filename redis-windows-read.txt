@@ -1,0 +1,1 @@
+Download redis from https://github.com/tporadowski/redis if you are Windows 10
